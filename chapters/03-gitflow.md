@@ -1,4 +1,4 @@
-# 2 What is GitFlow?
+# 3 What is GitFlow?
 
 ## Resources
 - [Github](https://github.com/)
