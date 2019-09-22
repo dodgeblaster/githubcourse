@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="496px" height="459px" viewBox="0 0 496 459" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-9.40655937%" y1="35.8907885%" x2="100%" y2="57.5506924%" id="linearGradient-1">
+            <stop stop-color="#3A23BC" offset="0%"></stop>
+            <stop stop-color="#D06E7E" offset="58.9914944%"></stop>
+            <stop stop-color="#FDAB83" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Path-+-Oval-Mask-Copy-3" transform="translate(-64.000000, -459.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <ellipse id="Oval" transform="translate(312.000000, 688.500000) rotate(30.000000) translate(-312.000000, -688.500000) " cx="312" cy="688.5" rx="257" ry="218.5"></ellipse>
+        </g>
+    </g>
+</svg>
