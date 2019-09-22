@@ -27,11 +27,11 @@ Using Github Projects, plan all the tasks required to build this sign up page. O
 
 ### Colors
 
-Pink: #FA6797
-Dark Purple: #4B2BB7
-Light Purple: #E2DDEF
-Grey: #828282
+-   Pink: #FA6797
+-   Dark Purple: #4B2BB7
+-   Light Purple: #E2DDEF
+-   Grey: #828282
 
 ### Fonts
 
-Open Sans
+-   Open Sans
