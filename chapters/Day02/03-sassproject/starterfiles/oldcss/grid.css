@@ -1,0 +1,104 @@
+/* * * * * * * * * * * * * * * * * * *
+Row
+* * * * * * * * * * * * * * * * * * */
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.row {
+  width: 100%;
+}
+
+.row .column {
+  float: left;
+  margin: 5px 1%;
+}
+
+.row::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+/* * * * * * * * * * * * * * * * * * *
+Columns
+* * * * * * * * * * * * * * * * * * */
+.small-1   { width: 6.333333333333334%;     }
+.small-2   { width: 14.666666666666668%;    }
+.small-3   { width: 23%;                    }
+.small-4   { width: 31.333333333333336%;    }
+.small-5   { width: 39.66666666666667%;     }
+.small-6   { width: 48.00000000000001%;     }
+.small-7   { width: 56.333333333333336%;    }
+.small-8   { width: 64.66666666666667%;     }
+.small-9   { width: 73%;                    }
+.small-10  { width: 81.33333333333333%;     }
+.small-11  { width: 89.66666666666667%;     }
+.small-12  { width: 98%;                    }
+
+@media only screen and (min-width: 720px) {  /* 720px */
+    .medium-1   { width: 6.333333333333334%;     }
+    .medium-2   { width: 14.666666666666668%;    }
+    .medium-3   { width: 23%;                    }
+    .medium-4   { width: 31.333333333333336%;    }
+    .medium-5   { width: 39.66666666666667%;     }
+    .medium-6   { width: 48.00000000000001%;     }
+    .medium-7   { width: 56.333333333333336%;    }
+    .medium-8   { width: 64.66666666666667%;     }
+    .medium-9   { width: 73%;                    }
+    .medium-10  { width: 81.33333333333333%;     }
+    .medium-11  { width: 89.66666666666667%;     }
+    .medium-12  { width: 98%;                    }
+}
+
+@media only screen and (min-width: 1040px) {  /* 720px */
+    .large-1   { width: 6.333333333333334%;     }
+    .large-2   { width: 14.666666666666668%;    }
+    .large-3   { width: 23%;                    }
+    .large-4   { width: 31.333333333333336%;    }
+    .large-5   { width: 39.66666666666667%;     }
+    .large-6   { width: 48.00000000000001%;     }
+    .large-7   { width: 56.333333333333336%;    }
+    .large-8   { width: 64.66666666666667%;     }
+    .large-9   { width: 73%;                    }
+    .large-10  { width: 81.33333333333333%;     }
+    .large-11  { width: 89.66666666666667%;     }
+    .large-12  { width: 98%;                    }
+}
+
+
+
+/* * * * * * * * * * * * * * * * * * *
+Visibility Classes
+* * * * * * * * * * * * * * * * * * */
+
+.visible-for-small-only {
+    display: block;
+}
+
+.visible-for-medium-up {
+    display: none;
+}
+
+.visible-for-large-up {
+    display: none;
+}
+
+@media only screen and (min-width: 720px) {  /* 720px */
+    .visible-for-small-only {
+        display: none;
+    }
+
+    .visible-for-medium-up {
+        display: block;
+    }
+
+}
+
+@media only screen and (min-width: 1040px) {  /* 720px */
+    .visible-for-large-up {
+        display: block;
+    }
+}
