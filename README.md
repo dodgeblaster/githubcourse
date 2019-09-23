@@ -1,7 +1,7 @@
 # Introduction to Github and Sass
 
 Hello,
-This is an introduction course to git and gitbub.
+This is an introduction course to git, github, and sass.
 
 ### Aims of the Git course
 
