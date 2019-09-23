@@ -31,9 +31,9 @@ Gary Jennings is a Fullstack Developer at CNK Tech. He graduated from SAIT's Fas
 
 ### Assigments
 
--   Assignment #1 - Create signup page using github and github projects
-    -   Worth 80% (of your Git Course Mark)
--   Assignment #2 - Refactor css into sass
-    -   Worth 20% (of your Sass Course Mark)
--   Assignment #3 - Sass Blog
-    -   Worth 50% (of your Sass Course Mark)
+-   Assignment #1 **80% (of your Git Course Mark)**
+    -   Create signup page using github and github projects
+-   Assignment #2 **20% (of your Sass Course Mark)**
+    -   Refactor css into sass
+-   Assignment #3 **60% (of your Sass Course Mark)**
+    -   Sass Blog
