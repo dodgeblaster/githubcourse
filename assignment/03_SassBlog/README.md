@@ -4,17 +4,22 @@
 | ---------- | ------ | ----- | ----------- | ---------------- |
 | #3         | Sass   | 60%   | Sass Blog   | Sept 31 @ 5:00pm |
 
-# How to submit this assignment
+### How to submit this assignment
 
-Send an email to garyfromsait@gmail.com. Here is the format:
+Send an email in the following format:
 
-To: garyfromsait@gmail.com
-Title: StudentName - GitSass - Assignment #3
-Body:
+- To: garyfromsait@gmail.com
+- Title: StudentName - GitSass - Assignment #3
+- Body:
 
 ```
 Github URL: https://www.github.com/username/reponame
 Deployed URL: www.my-site.com
+Team Members:
+- John Smith 1
+- John Smith 2
+- John Smith 3
+- John Smith 4
 ```
 
 ### Suggested Strategy
