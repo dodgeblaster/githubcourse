@@ -4,18 +4,20 @@
 | ---------- | ------ | ----- | --------------------------------------------------- | ---------------- |
 | #1         | Git    | 80%   | Create signup page using github and github projects | Sept 31 @ 5:00pm |
 
-# How to submit this assignment
+### How to submit this assignment
 
 Send an email to garyfromsait@gmail.com. Here is the format:
 
-To: garyfromsait@gmail.com
-Title: StudentName - GitSass - Assignment #1
-Body:
+- To: garyfromsait@gmail.com
+- Title: StudentName - GitSass - Assignment #1
+- Body:
 
 ```
 Github URL: https://www.github.com/username/reponame
 Deployed URL: www.my-site.com
 ```
+
+### Instructions
 
 Create a new repo. Pull down the repo onto your computer and initialize it with an index.html file and css file.
 Using Github Projects, plan all the tasks required to build this sign up page. Once all tasks are planned, follow the following workflow:
@@ -29,7 +31,7 @@ Using Github Projects, plan all the tasks required to build this sign up page. O
 -   move the task over from DOING to DONE column
 -   repeat
 
-# How this assignment will be marked
+### How this assignment will be marked
 
 -   do you have your project inside a git repo on github
 -   did you create a github project with tasks
@@ -40,15 +42,15 @@ Using Github Projects, plan all the tasks required to build this sign up page. O
 -   do you have a signup form with name and email inputs
 -   does it look like the mock
 
-# Details
+### Details
 
-### Colors
+#### Colors
 
 -   Pink: #FA6797
 -   Dark Purple: #4B2BB7
 -   Light Purple: #E2DDEF
 -   Grey: #828282
 
-### Fonts
+#### Fonts
 
 -   Open Sans
