@@ -4,6 +4,19 @@
 | ---------- | ------ | ----- | ----------- | ---------------- |
 | #3         | Sass   | 60%   | Sass Blog   | Sept 31 @ 5:00pm |
 
+# How to submit this assignment
+
+Send an email to garyfromsait@gmail.com. Here is the format:
+
+To: garyfromsait@gmail.com
+Title: StudentName - GitSass - Assignment #3
+Body:
+
+```
+Github URL: https://www.github.com/username/reponame
+Deployed URL: www.my-site.com
+```
+
 ### Suggested Strategy
 
 The following things should be done before anyone makes a branch on github:
