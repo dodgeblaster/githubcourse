@@ -6,7 +6,7 @@
 
 ### How to submit this assignment
 
-Send an email to garyfromsait@gmail.com. Here is the format:
+Send an email in the following format:
 
 - To: garyfromsait@gmail.com
 - Title: StudentName - GitSass - Assignment #2
