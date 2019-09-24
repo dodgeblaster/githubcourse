@@ -1,4 +1,8 @@
-# Assignment
+# Assignment #1 - Signup form
+
+| Assignment | Course | Worth | Description                                         | Due Date         |
+| ---------- | ------ | ----- | --------------------------------------------------- | ---------------- |
+| #1         | Git    | 80%   | Create signup page using github and github projects | Sept 31 @ 5:00pm |
 
 Create a new repo. Pull down the repo onto your computer and initialize it with an index.html file and css file.
 Using Github Projects, plan all the tasks required to build this sign up page. Once all tasks are planned, follow the following workflow:

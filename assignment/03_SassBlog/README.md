@@ -1,4 +1,8 @@
-# Assignment #3 - Sass Blog- 60%
+# Assignment #3 - Sass Blog
+
+| Assignment | Course | Worth | Description | Due Date         |
+| ---------- | ------ | ----- | ----------- | ---------------- |
+| #3         | Sass   | 60%   | Sass Blog   | Sept 31 @ 5:00pm |
 
 ### Suggested Strategy
 
