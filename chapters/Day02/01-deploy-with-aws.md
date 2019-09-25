@@ -25,6 +25,10 @@
 ### Install NodeJS
 - [Install](https://nodejs.org/en/download/)
 
+### Overview of AWS
+- [Timeline of Services](https://www.awsgeek.com/pages/AWS-History/)
+
+
 ### How are things named in AWS
 With arns (Amazon Resource Names) have the following structure:
 ```
@@ -113,4 +117,8 @@ Here is more information on each one of these values:
 ### Cloudfront CDN
 - [AWS Cloudfront](https://aws.amazon.com/cloudfront/)
 
+### Walkthru of how to get website hosted on s3
+- [Walkthru](https://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html?refid=gs_card#root-domain-walkthrough-before-you-begin)
 
+### Other Resources
+- [Videos on deploying a site, and other documents](https://htmlbasics.xyz/chapter?section=Project%20Management&chapter=8)
