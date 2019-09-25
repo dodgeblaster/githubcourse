@@ -3,6 +3,9 @@
 Hello,
 This is an introduction course to git, github, and sass.
 
+### My contact email
+[garyfromsait@gmail.com](garyfromsait@gmail.com)
+
 ### Aims of the Git course
 
 -   Student can create a new project on Github using Github Desktop
