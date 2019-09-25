@@ -2,7 +2,7 @@
 
 | Assignment | Course | Worth | Description | Due Date         |
 | ---------- | ------ | ----- | ----------- | ---------------- |
-| #3         | Sass   | 60%   | Sass Blog   | Sept 31 @ 5:00pm |
+| #3         | Sass   | 60%   | Sass Blog   | Sept 30 @ 5:00pm |
 
 ### How to submit this assignment
 
