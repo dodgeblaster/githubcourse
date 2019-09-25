@@ -16,4 +16,4 @@
 -   make a netlify now account
 -   download the netfliy cli
 -   go over how to deploy
--   contract it against aws s3
+-   contrast it against aws s3
