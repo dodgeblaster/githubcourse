@@ -2,7 +2,7 @@
 
 | Assignment | Course | Worth | Description                                         | Due Date         |
 | ---------- | ------ | ----- | --------------------------------------------------- | ---------------- |
-| #1         | Git    | 80%   | Create signup page using github and github projects | Sept 31 @ 5:00pm |
+| #1         | Git    | 80%   | Create signup page using github and github projects | Sept 30 @ 5:00pm |
 
 ### How to submit this assignment
 
