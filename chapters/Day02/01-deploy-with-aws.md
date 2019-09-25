@@ -6,7 +6,8 @@
 -   IBM
 
 ### Schedule
-
+- download cmdr
+- install NodeJS
 -   make an AWS account
 -   overview of AWS
   - services
@@ -19,6 +20,10 @@
 - talk about cloudfront
 - talk about SSL certificates
 
+### Install CMDR
+- [Install for Windows Only](https://cmder.net/)
+### Install NodeJS
+- [Install](https://nodejs.org/en/download/)
 
 ### How are things named in AWS
 With arns (Amazon Resource Names) have the following structure:
