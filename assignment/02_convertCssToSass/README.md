@@ -2,7 +2,7 @@
 
 | Assignment | Course | Worth | Description            | Due Date         |
 | ---------- | ------ | ----- | ---------------------- | ---------------- |
-| #2         | Sass   | 20%   | Refactor css into sass | Sept 31 @ 5:00pm |
+| #2         | Sass   | 20%   | Refactor css into sass | Sept 30 @ 5:00pm |
 
 ### How to submit this assignment
 
