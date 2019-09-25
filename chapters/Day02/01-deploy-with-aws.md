@@ -9,12 +9,15 @@
 
 -   make an AWS account
 -   overview of AWS
--   make a user in AWS
--   download the aws cli
+  - services
+  - arns
+  - permisions (policies, roles, users, programatic users)
 -   overview of S3
+- how to apply a policy to a bucket
 -   how to upload a website manually through the dashboard
--   how to use the aws cli
--   how we can use npm to run aws cli commands to make deploying easier
+- demonstrate route 53
+- talk about cloudfront
+- talk about SSL certificates
 
 
 ### How are things named in AWS
@@ -100,6 +103,9 @@ Here is more information on each one of these values:
 
 ### SSL Certificates
 - [AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)
+- [Why use SSL Certificates?](https://www.cloudflare.com/learning/ssl/why-use-https/)
 
 ### Cloudfront CDN
 - [AWS Cloudfront](https://aws.amazon.com/cloudfront/)
+
+
