@@ -3,7 +3,7 @@
 -   AWS
 -   Google Cloud
 -   Microsoft Azure
--   in a very distant 4th, IBM
+-   IBM
 
 ### Schedule
 
