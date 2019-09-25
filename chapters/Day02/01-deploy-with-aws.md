@@ -32,7 +32,7 @@ arn:aws:lambda:us-east-1:251256923172:function:my-api-function
 
 
 
-### How do permissions with in AWS
+### How do permissions work with in AWS
 By default, nobody can talk to anyone. All services have zero permissions.
 It is up to you to allow communication by setting any of these types of permissions:
 - user permissions
