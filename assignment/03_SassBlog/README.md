@@ -43,12 +43,13 @@ and work on different aspects of the site without too much fear of merge conflic
 One suggestion would be to make tasks in Github Projects and have everyone take a task. This will help make sure no one is doing the same thing.
 How this assignment will be marked
 
-1. Is there a Blog List, Blog, and About page
-2. Is there social icons in the footer
-3. Are Sass variables being used
-4. Are Sass styles nested based on component
-5. Are UI components broken out into different Sass files 6. Is there at least 1 mixin in the project
-6. Is indentation correct for HTML and Sass
-7. Is the code free of any merge conflicts
-8. Is the site responsive (can I see everything no matter what width the browser is at)
-9. Is the site hosted somewhere (AWS or Netlify or any other service you want to use)
+1. Is there a homepage listing blogs or articles, a details page, and an about page?
+2. Is there social icons somewhere on the site (footer, header, pinned to the side)?
+3. Are Sass variables being used?
+4. Are Sass styles nested based on component?
+5. Are UI components broken out into different Sass files?
+6. Is there at least 1 mixin in the project?
+6. Is indentation correct for HTML and Sass?
+7. Is the code free of any merge conflicts?
+8. Is the site responsive (can I see everything no matter what width the browser is at)?
+9. Is the site hosted somewhere (AWS or Netlify or any other service you want to use)?
