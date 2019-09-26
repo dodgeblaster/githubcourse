@@ -26,6 +26,5 @@ I will be marking on the following:
 
 -   does the project have variables
 -   does the project have nesting
--   does the project have the sass broken up into modules
 -   does the project have extended classes
 -   does the project have mixins
