@@ -38,4 +38,3 @@ Gary Jennings is a Fullstack Developer at CNK Tech. He graduated from SAIT's Fas
 | ---------- | ------ | ----- | --------------------------------------------------- | ---------------- |
 | #1         | Git    | 80%   | Create signup page using github and github projects | Sept 30 @ 5:00pm |
 | #2         | Sass   | 20%   | Refactor css into sass                              | Sept 30 @ 5:00pm |
-| #3         | Sass   | 60%   | Sass Blog                                           | Sept 30 @ 5:00pm |
