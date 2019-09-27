@@ -2,7 +2,7 @@
 
 | Assignment | Course | Worth | Description            | Due Date         |
 | ---------- | ------ | ----- | ---------------------- | ---------------- |
-| #2         | Sass   | 20%   | Refactor css into sass | Sept 30 @ 5:00pm |
+| #2         | Sass   | 80%   | Refactor css into sass | Sept 30 @ 5:00pm |
 
 ### How to submit this assignment
 
@@ -13,8 +13,7 @@ Send an email in the following format:
 - Body:
 
 ```
-Github URL: https://www.github.com/username/reponame
-Deployed URL: www.my-site.com
+Codepen URL: https://www.github.com/username/reponame
 ```
 
 ### Instructions
