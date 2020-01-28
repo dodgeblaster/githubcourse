@@ -1,9 +1,5 @@
 # Introduction to Github and Sass
 
-Hello,
-This is an introduction course to git, github, and sass.
-
-
 ### Video Demonstration for Git flow
 [GitFlow Demonstration](https://htmlbasicsresources.s3.amazonaws.com/gitflow.mp4)
 
@@ -30,5 +26,5 @@ Gary Jennings is a Fullstack Developer at CNK Tech. He graduated from SAIT's Fas
 
 | Assignment | Course | Worth | Description                                         | Due Date         |
 | ---------- | ------ | ----- | --------------------------------------------------- | ---------------- |
-| #1         | Git    | 80%   | Create signup page using github and github projects | Sept 30 @ 5:00pm |
+| #1         | Git    | 80%   | Create mocked site using github and github projects | Feb 3 @ 5:00pm |
 
