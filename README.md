@@ -21,16 +21,6 @@ This is an introduction course to git, github, and sass.
 -   Student is familiar with KanBan and how to impliment it with Github Projects
 -   Student is familiar with Continous Integration
 
-### Aims of the Sass course
-
--   Student knows how to use NPM and setup a project with NPM
--   Student can setup a sass compiler with gulp
--   Student knows how to use the following sass features:
-    -   variables
-    -   nesting
-    -   modules
-    -   @mixins
-    -   @extends
 
 ### About your instructor
 
@@ -41,4 +31,4 @@ Gary Jennings is a Fullstack Developer at CNK Tech. He graduated from SAIT's Fas
 | Assignment | Course | Worth | Description                                         | Due Date         |
 | ---------- | ------ | ----- | --------------------------------------------------- | ---------------- |
 | #1         | Git    | 80%   | Create signup page using github and github projects | Sept 30 @ 5:00pm |
-| #2         | Sass   | 80%   | Refactor css into sass                              | Sept 30 @ 5:00pm |
+
