@@ -38,8 +38,8 @@ Using Github Projects, plan all the tasks required to build this site. Once all 
 -   is your codebase free of any merge conflicts
 -   do you have a header
 -   do you have a footer
--   do you have a signup form with name and email inputs
--   does it look like the mock
+-   do you have as many pages as you have members (if you have 3 teammates, 3 pages, if you have 4 teammates, 4 pages)
+-   do the pages look like the mocks
 
 ### Details
 
