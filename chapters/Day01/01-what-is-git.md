@@ -32,3 +32,38 @@
 Once there where 2 sait students on the same team using the same Github repo. One of them made a folder called `styles` and saved it to Github, the other student made a folder called `STYLES`, and saved it to Github. 1 OS understood this as 2 seperate folders, the other OS saw only 1. It was confusing. Eventually they managed to remove one of the folders from the computer that could see both folders, and everything was fixed, but a whole afternoon was lost.
 
 
+## Github Project Strategy
+
+### Course Notes and exercises
+One strategy would be to make a github repo for notes for every course, or make 1 course notes repo for all courses for this semester.
+
+notes repo per course:
+```
+Sait-Github-Notes
+Sait-Javascript-Notes
+Sait-Sass-Notes
+```
+
+notes for all your courses:
+```
+SaitCourseNotes
+```
+
+### Course Projects
+You will want to have a seperate repo for each project you do for each course. You can decide to remove these later on if you like (although its nice to have your code demonstrated on your Github account for future potential employeers to see).
+
+```
+(CourseName-AssignmentName)
+Sait-Github-Assignment1
+Sait-Github-Assignment2
+Sait-Javascript-Assignment1
+Sait-Javascript-Assignment2
+Sait-Javascript-Assignment3
+Sait-Sass-Assignment1
+```
+
+You could combine all assignments into 1 repo, but that might get confusing for different instructors to mark. It is probably simplest and most straightforward to submit seperate repos to your instructors as assignments
+
+
+
+
