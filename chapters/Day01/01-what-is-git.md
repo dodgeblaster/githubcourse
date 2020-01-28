@@ -53,7 +53,6 @@ SaitCourseNotes
 You will want to have a seperate repo for each project you do for each course. You can decide to remove these later on if you like (although its nice to have your code demonstrated on your Github account for future potential employeers to see).
 
 ```
-(CourseName-AssignmentName)
 Sait-Github-Assignment1
 Sait-Github-Assignment2
 Sait-Javascript-Assignment1
