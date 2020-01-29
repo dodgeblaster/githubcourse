@@ -10,19 +10,6 @@
     width: 207px;
 }
 
-.logo-withpath {
-    background-image: url('./assets/logo-withPath.svg');
-    background-repeat: no-repeat;
-     height: 40px;
-    width: 207px;
-}
-
-
-tspan {
-    font-family: "Sigmar One";
-}
-
-
 #outline {
   stroke-dasharray: 1000;
   stroke-dashoffset: 1000;
