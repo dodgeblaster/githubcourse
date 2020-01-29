@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="416px" height="424px" viewBox="0 0 416 424" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 2 Copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="386" height="394" rx="35"></rect>
+        <filter x="-7.1%" y="-4.4%" width="114.2%" height="114.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="4" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="10" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="11.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#4428B9" offset="0%"></stop>
+            <stop stop-color="#B05E9A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#4428B9" offset="0%"></stop>
+            <stop stop-color="#B05E9A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#4428B9" offset="0%"></stop>
+            <stop stop-color="#B05E9A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#4428B9" offset="0%"></stop>
+            <stop stop-color="#B05E9A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#4428B9" offset="0%"></stop>
+            <stop stop-color="#B05E9A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2-Copy-4" transform="translate(15.000000, 5.000000)">
+            <g id="Rectangle" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" xlink:href="#path-1"></use>
+            </g>
+            <rect id="Rectangle" fill="url(#linearGradient-3)" fill-rule="nonzero" x="42" y="223" width="33" height="91" rx="16.5"></rect>
+            <rect id="Rectangle-Copy-7" fill="url(#linearGradient-4)" fill-rule="nonzero" x="109" y="163" width="33" height="151" rx="16.5"></rect>
+            <rect id="Rectangle-Copy-8" fill="url(#linearGradient-5)" fill-rule="nonzero" x="176" y="263" width="33" height="51" rx="16.5"></rect>
+            <rect id="Rectangle-Copy-9" fill="url(#linearGradient-6)" fill-rule="nonzero" x="244" y="233" width="33" height="81" rx="16.5"></rect>
+            <rect id="Rectangle-Copy-10" fill="url(#linearGradient-7)" fill-rule="nonzero" x="311" y="189" width="33" height="125" rx="16.5"></rect>
+            <text id="106,998.00" font-family="OpenSans-Bold, Open Sans" font-size="50" font-weight="bold" fill="#40404C">
+                <tspan x="70" y="124">106,998.00</tspan>
+            </text>
+            <text id="$" font-family="OpenSans-Bold, Open Sans" font-size="30" font-weight="bold" fill="#40404C">
+                <tspan x="38" y="109">$</tspan>
+            </text>
+            <text id="6-MONTH-STATUS" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#B9BBC2">
+                <tspan x="38" y="65">6 MONTH STATUS</tspan>
+            </text>
+            <text id="4.3k" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#B9BBC2">
+                <tspan x="44" y="348">4.3k</tspan>
+            </text>
+            <text id="6.3k" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#B9BBC2">
+                <tspan x="110" y="348">6.3k</tspan>
+            </text>
+            <text id="2.3k" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#B9BBC2">
+                <tspan x="180" y="348">2.3k</tspan>
+            </text>
+            <text id="3.3k" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#B9BBC2">
+                <tspan x="248" y="348">3.3k</tspan>
+            </text>
+            <text id="5.3k" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#B9BBC2">
+                <tspan x="315" y="348">5.3k</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

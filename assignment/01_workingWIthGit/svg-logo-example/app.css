@@ -1,0 +1,36 @@
+.container {
+    margin: 40px 40px 80px;
+    font-family: sans-serif;
+}
+
+.logo {
+    background-image: url('./assets/logo.svg');
+    background-repeat: no-repeat;
+    height: 40px;
+    width: 207px;
+}
+
+.logo-withpath {
+    background-image: url('./assets/logo-withPath.svg');
+    background-repeat: no-repeat;
+     height: 40px;
+    width: 207px;
+}
+
+
+tspan {
+    font-family: "Sigmar One";
+}
+
+
+#outline {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 5s linear forwards;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
