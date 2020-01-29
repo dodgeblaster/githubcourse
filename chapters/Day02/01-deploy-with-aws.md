@@ -6,8 +6,6 @@
 -   IBM
 
 ### Schedule
-- download cmdr
-- install NodeJS
 -   make an AWS account
 -   overview of AWS
   - services
@@ -19,11 +17,6 @@
 - demonstrate route 53
 - talk about cloudfront
 - talk about SSL certificates
-
-### Install CMDR
-- [Install for Windows Only](https://cmder.net/)
-### Install NodeJS
-- [Install](https://nodejs.org/en/download/)
 
 ### Overview of AWS
 - [Timeline of Services](https://www.awsgeek.com/pages/AWS-History/)
