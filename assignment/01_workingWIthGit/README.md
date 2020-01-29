@@ -56,7 +56,7 @@ Using Github Projects, plan all the tasks required to build this site. Once all 
 
 
 #### Corrected Mistakes
-The logo svg wrong has text rather than a path. A solution is to copy and paste the following code in the svg file:
+The logo svg file as text tag rather than a path tag defined for the text. A solution is to copy and paste the following code in the svg file:
 ```svg
 <svg width="206px" height="39px" viewBox="0 0 206 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
